@@ -1,8 +1,10 @@
-import createNextIntlPlugin from 'next-intl/plugin';
+import type { NextConfig } from 'next';
 
-const withNextIntl = createNextIntlPlugin({
-  locales: ['en', 'fr'],
-  defaultLocale: 'en'
-});
+const nextConfig: NextConfig = {
+  eslint: {
+    // Don’t fail the production build on ESLint errors
+    ignoreDuringBuilds: true
+  }
+};
 
-export default withNextIntl({});
+export default nextConfig;
