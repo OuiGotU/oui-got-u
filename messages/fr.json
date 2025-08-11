@@ -1,0 +1,56 @@
+{
+  "nav": { "locale": { "en": "English", "fr": "Français" } },
+  "estimator": {
+    "title": "Ménage résidentiel – Estimé instantané",
+    "square_feet": "Pieds carrés",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "kitchen_condition": "État de la cuisine",
+    "kitchen": { "normal": "Normal", "greasy": "Grasse" },
+    "clutter_level": "Niveau d'encombrement",
+    "clutter": {
+      "tidy": "Soigné",
+      "normal": "Normal",
+      "cluttered": "Encombré",
+      "very_cluttered": "Très encombré"
+    },
+    "pets": {
+      "label": "Animaux",
+      "none": "Aucun",
+      "one": "Un",
+      "two_plus": "Deux+",
+      "heavy_shedding": "Perte de poils importante"
+    },
+    "frequency": {
+      "label": "Fréquence",
+      "one_time": "Une seule fois",
+      "weekly": "Hebdomadaire",
+      "biweekly": "Aux deux semaines",
+      "monthly": "Mensuel"
+    },
+    "service_type": "Type de service",
+    "service": {
+      "standard_clean": "Entretien régulier",
+      "deep_clean": "Grand ménage",
+      "move_in_out": "Entrée/Sortie",
+      "post_renovation": "Post-rénovation",
+      "rental_turnover": "Rotation de location à court terme"
+    },
+    "addons": {
+      "label": "Extras",
+      "inside_fridge": "Intérieur du frigo",
+      "inside_oven": "Intérieur du four",
+      "interior_windows": "Fenêtres intérieures (par 5)",
+      "baseboards": "Plinthes",
+      "cabinet_fronts": "Devants d'armoires",
+      "laundry_folding": "Pliage de lessive"
+    },
+    "hourly_rate": "Taux horaire (CAD)",
+    "min_hours": "Heures minimales",
+    "estimate": "Estimation",
+    "at_rate": "à {rate} / heure",
+    "rounding_note": "(arrondi à 15 min, minimum d'heures appliqué)",
+    "how": "Méthode de calcul",
+    "raw_hours": "Heures avant arrondi : {hours} h."
+  }
+}

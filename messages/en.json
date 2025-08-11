@@ -1,0 +1,56 @@
+{
+  "nav": { "locale": { "en": "English", "fr": "Français" } },
+  "estimator": {
+    "title": "Home Cleaning – Instant Estimate",
+    "square_feet": "Square feet",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "kitchen_condition": "Kitchen condition",
+    "kitchen": { "normal": "Normal", "greasy": "Greasy" },
+    "clutter_level": "Clutter level",
+    "clutter": {
+      "tidy": "Tidy",
+      "normal": "Normal",
+      "cluttered": "Cluttered",
+      "very_cluttered": "Very cluttered"
+    },
+    "pets": {
+      "label": "Pets",
+      "none": "None",
+      "one": "One",
+      "two_plus": "Two+",
+      "heavy_shedding": "Heavy shedding"
+    },
+    "frequency": {
+      "label": "Frequency",
+      "one_time": "One-time",
+      "weekly": "Weekly",
+      "biweekly": "Biweekly",
+      "monthly": "Monthly"
+    },
+    "service_type": "Service type",
+    "service": {
+      "standard_clean": "Standard Clean",
+      "deep_clean": "Deep Clean",
+      "move_in_out": "Move-in/Move-out",
+      "post_renovation": "Post-renovation",
+      "rental_turnover": "Short-term rental turnover"
+    },
+    "addons": {
+      "label": "Add-ons",
+      "inside_fridge": "Inside fridge",
+      "inside_oven": "Inside oven",
+      "interior_windows": "Interior windows (per 5)",
+      "baseboards": "Baseboards",
+      "cabinet_fronts": "Cabinet fronts",
+      "laundry_folding": "Laundry (folding)"
+    },
+    "hourly_rate": "Hourly rate (CAD)",
+    "min_hours": "Min hours",
+    "estimate": "Estimate",
+    "at_rate": "at {rate} / hour",
+    "rounding_note": "(rounded to 15 min, min-hours applied)",
+    "how": "How this was calculated",
+    "raw_hours": "Raw hours before rounding: {hours} h."
+  }
+}
